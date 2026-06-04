@@ -11,7 +11,7 @@ int main() {
         sum += i;
     }
 
-    cout << "Sum of first " << n << " natural numbers = " << sum;
+    cout << "Sum of first N natural numbers = " << sum;
 
     return 0;
 }
