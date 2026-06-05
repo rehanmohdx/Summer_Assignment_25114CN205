@@ -13,5 +13,6 @@ int main() {
         prod = prod*digit;
     }
     cout << prod;
+return 0;
 }
     
