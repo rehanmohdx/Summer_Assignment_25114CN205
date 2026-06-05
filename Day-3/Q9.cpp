@@ -16,8 +16,11 @@ int main(){
         }
     }
 
-    if (isPrime)
+    if (isPrime){
         cout << "n is a prime number" << endl;
-    else
+    }
+    else{
         cout << "n is not a prime number";
+}
+return 0;
 }
