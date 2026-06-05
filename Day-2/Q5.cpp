@@ -12,4 +12,6 @@ int main() {
         sum=sum+i;
     }
     cout << sum;
+
+return 0;
 }
