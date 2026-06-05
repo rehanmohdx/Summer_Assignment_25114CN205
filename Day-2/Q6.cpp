@@ -13,4 +13,5 @@ int main() {
         rev =(rev*10+digit);
     }
     cout << rev;
+return 0;
 }
