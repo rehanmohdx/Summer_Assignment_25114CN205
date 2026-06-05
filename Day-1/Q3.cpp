@@ -10,4 +10,5 @@ int main() {
     
     }
     cout << fact << endl;
+return 0;
 }
