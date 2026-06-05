@@ -15,7 +15,8 @@ int main(){
         {cout <<"n is pallindrome";
     }
 }
-}  
+return 0;
+} 
     
     
     
