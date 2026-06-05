@@ -12,5 +12,5 @@ int main() {
         ans = n*i;
  cout << n << "*" << i << "=" << ans << endl;
     }
-    
+    return 0;
 }
