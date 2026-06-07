@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int n,i,fact;
+    int n,i,fact=1;
     cout << "enter number for which we had to calculate factorial" << endl;
     cin >> n;
     for ( i=1;i<=n;i++){
